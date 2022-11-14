@@ -15,3 +15,5 @@
                     values++;
                 }
             }
+            Console.Write((string.Join("  " , result )));
+            Console.ReadKey(true);
